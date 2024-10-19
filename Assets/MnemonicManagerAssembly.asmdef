@@ -1,0 +1,17 @@
+{
+    "name": "MnemonicManagerAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f8b80ea32105bf74aa022a9a7e066bc1",
+        "GUID:45ab5c0c2cb4a0e4ba897b731349c490"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
